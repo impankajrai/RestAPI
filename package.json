@@ -1,0 +1,25 @@
+{
+  "name": "songsapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index.js"
+  },
+  "keywords": [
+    "restful",
+    "api",
+    "node",
+    "express"
+  ],
+  "author": "Pankaj Kumar Rai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
